@@ -8,3 +8,5 @@ Para a criação, caso esteja usando o VS Code, utilizando o comando "ssh-keygen
 OBS: se fizer alterações nos nomes dos blocos, precisará alterar também as chamadas de id que mencionem os blocos alterados e também ajusta-los no outputs.tf.
 
 Outro ponto: Essa criação irá utilizar uma VPC já criada, com isso valide as regras da VPC em questão, também usará a VNET já criada em outro código como recurso.
+
+Código pronto para uso de gitlab pipeline CI/CD
